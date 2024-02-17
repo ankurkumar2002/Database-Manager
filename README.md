@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <h1>Simple JDBC Operations Application</h1>
+  
 
   <h2>Overview</h2>
 
